@@ -1,0 +1,23 @@
+{
+  "name": "atom-romaniarp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RolexDab",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "got": "^9.3.2",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "purple": "^1.0.0",
+    "quick.hook": "^1.5.1",
+    "superagent": "^4.0.0-beta.5",
+    "xp": "^1.0.1"
+  }
+}
